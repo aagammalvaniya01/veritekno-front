@@ -1,0 +1,3 @@
+export const ACTION = {
+  ADMIN_LOGIN_SUCCESS: "ADMIN_LOGIN_SUCCESS",
+};
